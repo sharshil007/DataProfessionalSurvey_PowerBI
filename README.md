@@ -52,3 +52,5 @@ The project developed six distinct visualizations, including stack-bar charts, p
 the analysis of professional data. Overall, this project provides valuable insights into various aspects of a professional's work life, 
 offering a comprehensive view of the challenges and trends in the professional world.
 
+![image](https://github.com/sharshil007/DataProfessionalSurvey_PowerBI/assets/110207080/84774972-b8a2-4a52-8bec-84e1058d5084)
+
